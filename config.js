@@ -4,7 +4,8 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  mongodbUri : "mongodb+srv://milo:milo@123@discordbot.afyhoaw.mongodb.net/?appName=Discordbot
+",
   spotifyClientId : "",
   spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
