@@ -1,10 +1,10 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTQzNDIzNTI4NzM2MTU1MjU5Ng.GSJSUU.HG_pqgPEQEfZyi-46m8fbUger9YAK2gV11oeuE",
   language: "en",
   ownerID: ["Milo", ""], 
-  mongodbUri : "mongodb+srv://milo:milo@123@discordbot.afyhoaw.mongodb.net",
+  mongodbUri : "mongodb+srv://milo:<db_password>@discordbot.afyhoaw.mongodb.net/?appName=Discordbot",
   spotifyClientId : "922436dfc2364fb1bad04e478ccf874a",
   spotifyClientSecret : "0b444b694119409db21d98e78394fd5f",
   setupFilePath: './commands/setup.json',
